@@ -1,0 +1,16 @@
+//
+//  SmartBudgetTests.swift
+//  SmartBudgetTests
+//
+//  Created by Hedi Ouled Hani on 25/11/2025.
+//
+
+import Testing
+
+struct SmartBudgetTests {
+
+    @Test func example() async throws {
+        // Write your test here and use APIs like `#expect(...)` to check expected conditions.
+    }
+
+}
